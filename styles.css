@@ -55,6 +55,7 @@ body {
 
 .italic {
   color: grey;
+  font-style: italic;
 }
 
 .button {

@@ -6,10 +6,6 @@ body {
   
 }
 
-.h4italic {
-	font-style: italic;
-	color: grey;
-}
 
 .p {
 	color: black;
@@ -54,6 +50,10 @@ body {
 }
 
 .title {
+  color: grey;
+}
+
+.italic {
   color: grey;
 }
 
